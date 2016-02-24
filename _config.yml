@@ -1,0 +1,28 @@
+name: Chaoticmnemonic
+favicon: null
+layout_spectrum: 0.3222129810601473
+typography_spectrum: 0.7936307154595852
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9972302229143679
+  lightness: 0.47533003450371325
+  saturation: 0.9198820958845317
+  rhythmicContrast: 0.0284770664293319
+purpose: []
